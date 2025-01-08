@@ -1,36 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# EliteWardrobe
 
-## Getting Started
+## Live Link : https://elitewardrobe-main-myf7.vercel.app/
 
-First, run the development server:
+### Project Screenshots
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+#### Home : 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![elitewardrobe-main-myf7 vercel app_about (1)](https://github.com/user-attachments/assets/db5a2858-3309-46c5-827f-176ac27fd1ab)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![elitewardrobe-main-myf7 vercel app_about (2)](https://github.com/user-attachments/assets/d3be055e-a190-4000-aa87-da8ef4ee2033)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![elitewardrobe-main-myf7 vercel app_about (3)](https://github.com/user-attachments/assets/356d31fd-521c-49a1-80c0-378041c898aa)
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+#### Products :
+![elitewardrobe-main-myf7 vercel app__](https://github.com/user-attachments/assets/c7c75184-2989-4988-b993-b5ae3ef07b4c)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+#### Cart :
 
-## Deploy on Vercel
+![elitewardrobe-main-myf7 vercel app__ (4)](https://github.com/user-attachments/assets/f94c96a6-de91-4e85-bc8b-57a968a1d6ef)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+#### About Us (mock information) :
+
+![elitewardrobe-main-myf7 vercel app__ (2)](https://github.com/user-attachments/assets/2ee53fac-95e3-46ae-8922-807be92a1fa7)
+
+
+#### Contact us (mock information) :
+![elitewardrobe-main-myf7 vercel app__ (3)](https://github.com/user-attachments/assets/2b390f4e-9d76-45b3-8bc5-daabc6c4e717)
